@@ -54,7 +54,7 @@ class AddEmployee extends Component {
     }
     // cancel=(e)=>{
     //     e.preventDefault();
-    // } hello  world
+    // } new
     changeNamehandler=(e)=>{
         this.setState({name:e.target.value});
     }
